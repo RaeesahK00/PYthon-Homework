@@ -1,0 +1,9 @@
+x = 2
+y = 4
+h = x+y
+print("h equals: ", h)
+
+y = 3
+h = 2
+x = h-y
+print("x equals: ", x)
